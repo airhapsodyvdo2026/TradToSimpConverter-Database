@@ -1,0 +1,9 @@
+{
+  "version": "2.0.1",
+  "updatedAt": "2026-05-18",
+  "files": {
+    "tradToSimpChar": "tradToSimpChar.js",
+    "tradToSimpPhrase": "tradToSimpPhrase.js",
+    "tradToSimpProtected": "tradToSimpProtected.js"
+  }
+}
