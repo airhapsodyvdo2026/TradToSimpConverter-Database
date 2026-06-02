@@ -1,4 +1,4 @@
-// Version_Beta_2.6.8 for TradToSimpTableOnly.jsx/ TradToSimpConverter (update at 1-6-2026-v2)
+// Version_Beta_2.6.9 for TradToSimpTableOnly.jsx/ TradToSimpConverter (update at 2-6-2026)
 var tradToSimpChar = {
     //number 
     "0": "0","1": "1", "2": "2", "3": "3", "4": "4", "5": "5",
@@ -84,7 +84,7 @@ var tradToSimpChar = {
     "賽": "赛", "酬": "酬", "播": "播", "躍": "跃", 
     "伽": "伽", "馬": "马", "刀": "刀", "違": "违", "蟲": "虫","驢": "驴","膠": "胶",
     "競": "竞", "拔": "拔", "癫": "癫", "痫": "痫", "韌": "韧","韓": "韩","追": "追",
-    "究": "究", "肩": "肩", "夥": "伙", "綢": "绸", 
+    "究": "究", "肩": "肩", "夥": "伙", "綢": "绸", "蓬": "蓬", "勃": "勃", "七": "七",
 
  // From Rhapsody Eric
     "腫": "肿", "鬱": "郁", "黃": "黄", "節": "节", "貼": "贴","破": "破","貴": "贵",
