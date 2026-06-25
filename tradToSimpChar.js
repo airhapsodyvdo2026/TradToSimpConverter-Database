@@ -1,4 +1,4 @@
-// Version_Beta_2.6.14 for TradToSimpTableOnly.jsx/ TradToSimpConverter (update at 25-6-2026)
+// Version_Beta_2.6.14a for TradToSimpTableOnly.jsx/ TradToSimpConverter (update at 25-6-2026)
 var tradToSimpChar = {
     //number 
     "0": "0","1": "1", "2": "2", "3": "3", "4": "4", "5": "5",
