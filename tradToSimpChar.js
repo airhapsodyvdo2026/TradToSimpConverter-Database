@@ -1,4 +1,4 @@
-// Version_Beta_2.6.13 for TradToSimpTableOnly.jsx/ TradToSimpConverter (update at 9-6-2026)
+// Version_Beta_2.6.14 for TradToSimpTableOnly.jsx/ TradToSimpConverter (update at 25-6-2026)
 var tradToSimpChar = {
     //number 
     "0": "0","1": "1", "2": "2", "3": "3", "4": "4", "5": "5",
@@ -121,6 +121,9 @@ var tradToSimpChar = {
     "絶": "绝","串": "串", "彩": "彩", "増": "增", "押": "押", "剖": "剖", "唇": "唇", "髖": "髋", 
     "唐": "唐", "臍": "脐", "廔": "瘘", "抹": "抹", "漲": "涨", "陷": "陷",
     "措": "措", "拓": "拓", "八": "八", "攻": "攻", "榮": "荣", "軌": "轨",
+    "族":"族","昆":"昆","叮":"叮","咬":"咬","疼":"疼","瘙":"瘙",
+"尤":"尤","板":"板","瑞":"瑞","敏":"敏","埋":"埋","班":"班",
+"雖":"虽","頗":"颇","趁":"趁","狄":"狄"
 
 
 // From Rhapsody Zechs
