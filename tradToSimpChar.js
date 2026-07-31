@@ -1,4 +1,4 @@
-// Version_Beta_2.6.14c for TradToSimpTableOnly.jsx/ TradToSimpConverter (update at 25-6-2026)
+// Version_Beta_2.6.15 for TradToSimpTableOnly.jsx/ TradToSimpConverter (update at 25-6-2026)
 var tradToSimpChar = {
     //number 
     "0": "0","1": "1", "2": "2", "3": "3", "4": "4", "5": "5",
@@ -146,7 +146,7 @@ var tradToSimpChar = {
 "思": "思", "碩": "硕", "昂": "昂", "薪": "薪", "拚": "拼","魄": "魄", "凡": "凡",
 "閲": "阅", "勾": "勾", "匹": "匹", "滑": "滑", "捕": "捕", "捉": "捉", "蹤": "踪", "浮": "浮", "抓": "抓", "慰": "慰",
 "薦": "荐", "暗": "暗", "贖": "赎", "漏": "漏", "乘": "乘", "坐": "坐", "駕": "驾", "駛": "驶", "輛": "辆",
-
+"衷": "衷", "勿": "勿", "朋": "朋", "驟": "骤", "晉": "晋", "街": "街",
 
 
 
