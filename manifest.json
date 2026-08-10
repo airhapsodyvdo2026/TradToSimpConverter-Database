@@ -1,1 +1,11 @@
-{  "version": "2.6.15",  "updatedAt": "2026-07-31",  "files": {    "tradToSimpChar": "tradToSimpChar.js",    "tradToSimpPhrase": "tradToSimpPhrase.js",    "tradToSimpProtected": "tradToSimpProtected.js"  }}
+{
+  "version": "2.6.16",
+  "updatedAt": "2026-08-10",
+  "files": {
+    "tradToSimpChar": "tradToSimpChar.js",
+    "tradToSimpPhrase": "tradToSimpPhrase.js",
+    "tradToSimpProtected": "tradToSimpProtected.js"
+  },
+  "localRevision": 0,
+  "githubSyncStatus": "synchronized"
+}
