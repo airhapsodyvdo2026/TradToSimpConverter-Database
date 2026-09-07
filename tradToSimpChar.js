@@ -1,4 +1,4 @@
-// Version_Beta_2.6.19 on 2026-09-07 synchronized with GitHub
+// Version_Beta_2.6.20 on 2026-09-07 synchronized with GitHub
 var tradToSimpChar = {
     //number 
     "0": "0","1": "1", "2": "2", "3": "3", "4": "4", "5": "5",
@@ -588,7 +588,7 @@ var tradToSimpChar = {
 
     // Added by TEST_LEON upload on 2026-09-02 16:48
     "綻": "绽", "冒": "冒", "契": "契", "捨": "舍", "臻": "臻", "慧": "慧",
-    "聘": "聘", "午": "午", "敬": "敬", "鑼": "锣",
+    "聘": "聘", "午": "午", "敬": "敬",
 
     // Added by RF4_erik upload on 2026-09-07 16:56
     "臣": "臣"
