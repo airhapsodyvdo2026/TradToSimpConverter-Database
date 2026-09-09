@@ -1,4 +1,4 @@
-// Version_Beta_2.6.22 on 2026-09-07 synchronized with GitHub
+// Version_Beta_2.6.23 on 2026-09-09 synchronized with GitHub
 var tradToSimpChar = {
     //number 
     "0": "0","1": "1", "2": "2", "3": "3", "4": "4", "5": "5",
@@ -592,4 +592,7 @@ var tradToSimpChar = {
 
     // Added by RF4_erik upload on 2026-09-07 16:56
     "臣": "臣",
+
+    // Added by henry upload on 2026-09-09 15:50
+    "鑼": "锣", "锣": "锣"
 };
