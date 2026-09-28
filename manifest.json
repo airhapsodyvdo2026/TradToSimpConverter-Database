@@ -1,6 +1,6 @@
 {
-  "version": "2.6.23",
-  "updatedAt": "2026-09-09",
+  "version": "2.6.24",
+  "updatedAt": "2026-09-28",
   "files": {
     "tradToSimpChar": "tradToSimpChar.js",
     "tradToSimpPhrase": "tradToSimpPhrase.js",
